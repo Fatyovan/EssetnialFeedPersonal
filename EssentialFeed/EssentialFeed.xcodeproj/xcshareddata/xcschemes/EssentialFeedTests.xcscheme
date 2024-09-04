@@ -17,7 +17,7 @@
             reference = "container:../CI.xctestplan">
          </TestPlanReference>
          <TestPlanReference
-            reference = "container:EssentialFeedTests.xctestplan"
+            reference = "container:../EssentialFeedTests.xctestplan"
             default = "YES">
          </TestPlanReference>
       </TestPlans>
