@@ -214,5 +214,3 @@ final class URLSessionHTTPClientTests: XCTestCase {
         override func stopLoading() { }
     }
 }
-
-// test CI
