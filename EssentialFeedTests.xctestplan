@@ -4,7 +4,7 @@
       "id" : "2E498749-3387-4815-B481-EED5E94616C8",
       "name" : "Configuration 1",
       "options" : {
-
+        "threadSanitizerEnabled" : true
       }
     }
   ],
@@ -18,7 +18,8 @@
         }
       ]
     },
-    "testExecutionOrdering" : "random"
+    "testExecutionOrdering" : "random",
+    "threadSanitizerEnabled" : true
   },
   "testTargets" : [
     {
