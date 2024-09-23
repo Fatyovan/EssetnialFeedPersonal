@@ -1,0 +1,1 @@
+[![CI](https://github.com/Fatyovan/EssetnialFeedPersonal/actions/workflows/CI.yml/badge.svg)](https://github.com/Fatyovan/EssetnialFeedPersonal/actions/workflows/CI.yml)
