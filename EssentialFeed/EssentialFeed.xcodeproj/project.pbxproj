@@ -47,7 +47,7 @@
 		080EDF0B21B6DAE800813479 /* FeedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItem.swift; sourceTree = "<group>"; };
 		080EDF0D21B6DCB600813479 /* FeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedLoader.swift; sourceTree = "<group>"; };
 		D90162912C88552C003CF437 /* RemoteFeedLoaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoaderTests.swift; sourceTree = "<group>"; };
-		D90162932C8855A7003CF437 /* EssentialFeedTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = EssentialFeedTests.xctestplan; path = ../EssentialFeedTests.xctestplan; sourceTree = "<group>"; };
+		D90162932C8855A7003CF437 /* EssentialFeedTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = EssentialFeedTests.xctestplan; path = ../../EssentialFeedTests.xctestplan; sourceTree = "<group>"; };
 		D957CA5B2C9AD70900A134D5 /* URLSessionHTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionHTTPClient.swift; sourceTree = "<group>"; };
 		D97A49E42C898E6B0076D807 /* RemoteFeedLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedLoader.swift; sourceTree = "<group>"; };
 		D9852FBB2C917999008F0C9E /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
@@ -90,7 +90,6 @@
 			isa = PBXGroup;
 			children = (
 				D9E1D81A2C9D7909009B5E33 /* CI.xctestplan */,
-				D90162932C8855A7003CF437 /* EssentialFeedTests.xctestplan */,
 				080EDEF321B6DA7E00813479 /* EssentialFeed */,
 				080EDEFE21B6DA7E00813479 /* EssentialFeedTests */,
 				D9E1D8102C9D70D8009B5E33 /* EssentialFeedAPIEndToEndTests */,
@@ -169,6 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				D9E1D8112C9D70D8009B5E33 /* EssentialFeedAPIEndToEndTests.swift */,
+				D90162932C8855A7003CF437 /* EssentialFeedTests.xctestplan */,
 			);
 			path = EssentialFeedAPIEndToEndTests;
 			sourceTree = "<group>";
