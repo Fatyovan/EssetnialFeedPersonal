@@ -17,4 +17,5 @@ public struct FeedItem: Equatable {
         self.location = location
         self.imageURL = imageURL
     }
+    //test commit
 }
